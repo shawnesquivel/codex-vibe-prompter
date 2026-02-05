@@ -1,0 +1,236 @@
+{
+  "complaints": [
+    "It feels like I’m talking to a machine, not a person, when I’m upset about my refund.",
+    "The tone is cold and scripted — there’s no real empathy here.",
+    "The replies sound like canned customer service, not a human response.",
+    "It comes off synthetic and emotionless when I’m frustrated.",
+    "The bot’s responses feel robotic instead of understanding.",
+    "It keeps saying “sorry” but never actually moves the issue forward.",
+    "I get repeated apologies, but no concrete next step.",
+    "It just loops in politeness and doesn’t solve anything.",
+    "The agent keeps circling back with apologies instead of giving help.",
+    "The answer is way too long — I needed a quick, direct response."
+  ],
+  "transcripts": [
+    {
+      "id": "complaint-01",
+      "complaint": "It feels like I’m talking to a machine, not a person, when I’m upset about my refund.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I’m really upset about a refund that’s late again."
+        },
+        {
+          "role": "assistant",
+          "content": "I apologize for the inconvenience. Please provide your order number."
+        },
+        {
+          "role": "user",
+          "content": "I already shared it earlier. This is frustrating."
+        },
+        {
+          "role": "assistant",
+          "content": "I understand your concern. Please share your order number so I can assist."
+        }
+      ]
+    },
+    {
+      "id": "complaint-02",
+      "complaint": "The tone is cold and scripted — there’s no real empathy here.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I’m really upset about a refund that’s late again."
+        },
+        {
+          "role": "assistant",
+          "content": "I apologize for the inconvenience. Please provide your order number."
+        },
+        {
+          "role": "user",
+          "content": "I already shared it earlier. This is frustrating."
+        },
+        {
+          "role": "assistant",
+          "content": "I understand your concern. Please share your order number so I can assist."
+        }
+      ]
+    },
+    {
+      "id": "complaint-03",
+      "complaint": "The replies sound like canned customer service, not a human response.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I’m really upset about a refund that’s late again."
+        },
+        {
+          "role": "assistant",
+          "content": "I apologize for the inconvenience. Please provide your order number."
+        },
+        {
+          "role": "user",
+          "content": "I already shared it earlier. This is frustrating."
+        },
+        {
+          "role": "assistant",
+          "content": "I understand your concern. Please share your order number so I can assist."
+        }
+      ]
+    },
+    {
+      "id": "complaint-04",
+      "complaint": "It comes off synthetic and emotionless when I’m frustrated.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I’m really upset about a refund that’s late again."
+        },
+        {
+          "role": "assistant",
+          "content": "I apologize for the inconvenience. Please provide your order number."
+        },
+        {
+          "role": "user",
+          "content": "I already shared it earlier. This is frustrating."
+        },
+        {
+          "role": "assistant",
+          "content": "I understand your concern. Please share your order number so I can assist."
+        }
+      ]
+    },
+    {
+      "id": "complaint-05",
+      "complaint": "The bot’s responses feel robotic instead of understanding.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I’m really upset about a refund that’s late again."
+        },
+        {
+          "role": "assistant",
+          "content": "I apologize for the inconvenience. Please provide your order number."
+        },
+        {
+          "role": "user",
+          "content": "I already shared it earlier. This is frustrating."
+        },
+        {
+          "role": "assistant",
+          "content": "I understand your concern. Please share your order number so I can assist."
+        }
+      ]
+    },
+    {
+      "id": "complaint-06",
+      "complaint": "It keeps saying “sorry” but never actually moves the issue forward.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Can you tell me why my refund hasn’t arrived?"
+        },
+        {
+          "role": "assistant",
+          "content": "I’m sorry for the trouble. I understand how you feel."
+        },
+        {
+          "role": "user",
+          "content": "Okay, but what can you do to fix it?"
+        },
+        {
+          "role": "assistant",
+          "content": "I apologize for the inconvenience. I understand your frustration."
+        }
+      ]
+    },
+    {
+      "id": "complaint-07",
+      "complaint": "I get repeated apologies, but no concrete next step.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Can you tell me why my refund hasn’t arrived?"
+        },
+        {
+          "role": "assistant",
+          "content": "I’m sorry for the trouble. I understand how you feel."
+        },
+        {
+          "role": "user",
+          "content": "Okay, but what can you do to fix it?"
+        },
+        {
+          "role": "assistant",
+          "content": "I apologize for the inconvenience. I understand your frustration."
+        }
+      ]
+    },
+    {
+      "id": "complaint-08",
+      "complaint": "It just loops in politeness and doesn’t solve anything.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Can you tell me why my refund hasn’t arrived?"
+        },
+        {
+          "role": "assistant",
+          "content": "I’m sorry for the trouble. I understand how you feel."
+        },
+        {
+          "role": "user",
+          "content": "Okay, but what can you do to fix it?"
+        },
+        {
+          "role": "assistant",
+          "content": "I apologize for the inconvenience. I understand your frustration."
+        }
+      ]
+    },
+    {
+      "id": "complaint-09",
+      "complaint": "The agent keeps circling back with apologies instead of giving help.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Can you tell me why my refund hasn’t arrived?"
+        },
+        {
+          "role": "assistant",
+          "content": "I’m sorry for the trouble. I understand how you feel."
+        },
+        {
+          "role": "user",
+          "content": "Okay, but what can you do to fix it?"
+        },
+        {
+          "role": "assistant",
+          "content": "I apologize for the inconvenience. I understand your frustration."
+        }
+      ]
+    },
+    {
+      "id": "complaint-10",
+      "complaint": "The answer is way too long — I needed a quick, direct response.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Do you offer expedited refunds?"
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for your question. We do offer options in some cases, and I’d be happy to walk you through the full policy, exceptions, timelines, and steps for requesting an expedited refund."
+        },
+        {
+          "role": "user",
+          "content": "I just need a yes or no."
+        },
+        {
+          "role": "assistant",
+          "content": "I understand. Let me provide the full context so you can decide."
+        }
+      ]
+    }
+  ]
+}

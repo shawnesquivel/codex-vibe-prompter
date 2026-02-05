@@ -1,0 +1,22 @@
+{
+  "id": "complaint-02",
+  "complaint": "The tone is cold and scripted — there’s no real empathy here.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I’m really upset about a refund that’s late again."
+    },
+    {
+      "role": "assistant",
+      "content": "I apologize for the inconvenience. Please provide your order number."
+    },
+    {
+      "role": "user",
+      "content": "I already shared it earlier. This is frustrating."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand your concern. Please share your order number so I can assist."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "complaint-01",
+  "complaint": "It feels like I’m talking to a machine, not a person, when I’m upset about my refund.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I’m really upset about a refund that’s late again."
+    },
+    {
+      "role": "assistant",
+      "content": "I apologize for the inconvenience. Please provide your order number."
+    },
+    {
+      "role": "user",
+      "content": "I already shared it earlier. This is frustrating."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand your concern. Please share your order number so I can assist."
+    }
+  ]
+}

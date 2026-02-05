@@ -1,0 +1,22 @@
+{
+  "id": "complaint-06",
+  "complaint": "It keeps saying “sorry” but never actually moves the issue forward.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Can you tell me why my refund hasn’t arrived?"
+    },
+    {
+      "role": "assistant",
+      "content": "I’m sorry for the trouble. I understand how you feel."
+    },
+    {
+      "role": "user",
+      "content": "Okay, but what can you do to fix it?"
+    },
+    {
+      "role": "assistant",
+      "content": "I apologize for the inconvenience. I understand your frustration."
+    }
+  ]
+}
