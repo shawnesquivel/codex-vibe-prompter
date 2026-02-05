@@ -5,11 +5,11 @@
 - Transcripts: 10
 
 ## Experiment Target
-- **Lack of empathy and robotic responses in customer service interactions regarding refunds.** (severity: high)
-- Evidence: Customers report feeling like they are talking to a machine rather than a human, with responses that are cold, scripted, and lacking real understanding. The assistant often provides repetitive apologies without addressing the customer's concerns or moving the issue forward.
+- **Lack of empathy and mechanical responses from the AI agent, leading to frustration and no resolution.** (severity: high)
+- Evidence: Customers repeatedly express dissatisfaction with the bot's tone, indicating it feels robotic, emotionless, or scripted, and they receive apologies without actionable solutions.
 - Transcripts: complaint-01, complaint-02, complaint-03, complaint-04, complaint-05, complaint-06, complaint-07, complaint-08, complaint-09
 
 ## Also Flagged
-- **Response length is unnecessarily long, leading to customer frustration.** (severity: medium)
-- Evidence: One customer requested a quick yes or no answer but received an overly detailed response instead.
+- **Overly verbose responses when quick answers are needed.** (severity: medium)
+- Evidence: Customers are frustrated by long, indirect answers when they seek straightforward information.
 - Transcripts: complaint-10
